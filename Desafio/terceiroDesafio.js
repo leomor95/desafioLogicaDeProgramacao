@@ -29,4 +29,4 @@ class hero{
     }
 }
 let newHero = new hero("Heroi",28,"ninja")
-newHero.attack()
+newHero.attack() 
